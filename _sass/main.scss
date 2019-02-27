@@ -1,3 +1,52 @@
 .current {
     color: green;
   }
+.flexlink{
+  margin-left: 50px;
+  margin-right:50px;
+  padding: 15px;
+  background: linear-gradient(black,white,black);
+}
+body{
+  background: linear-gradient(rgb(0, 0, 0),rgb(175, 0, 0),rgb(0, 0, 0)); 
+}
+nav{
+  grid-area:nav;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(129, 10, 10);
+}
+.home{
+border-style: solid;
+color: white;
+background: linear-gradient(rgb(0, 0, 0),rgb(255, 255, 255));
+max-width: 50%;
+justify-content: center;
+text-align:center;
+margin-left:25%;
+}
+
+@media only screen and (min-width: 1069px){
+  body{
+    background: linear-gradient(rgb(105, 237, 255),rgb(255, 122, 211),rgb(170, 170, 255),rgb(255, 122, 211),rgb(170, 170, 255)); 
+  }
+  nav{
+    grid-area:nav;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(184, 184, 255);
+  }
+}
+.home{
+  border-style: solid;
+  color: white;
+  background: linear-gradient(red,blue,red);
+  max-width: 50%;
+  justify-content: center;
+  text-align:center;
+  margin-left:25%;
+}
+.responsive{
+  width:100%;
+  height:auto;
+}

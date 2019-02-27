@@ -1,2 +1,48 @@
 .current {
   color: green; }
+
+.flexlink {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 15px;
+  background: linear-gradient(black, white, black); }
+
+body {
+  background: linear-gradient(black, #af0000, black); }
+
+nav {
+  grid-area: nav;
+  display: flex;
+  justify-content: center;
+  background-color: #810a0a; }
+
+.home {
+  border-style: solid;
+  color: white;
+  background: linear-gradient(black, white);
+  max-width: 50%;
+  justify-content: center;
+  text-align: center;
+  margin-left: 25%; }
+
+@media only screen and (min-width: 1069px) {
+  body {
+    background: linear-gradient(#69edff, #ff7ad3, #aaaaff, #ff7ad3, #aaaaff); }
+
+  nav {
+    grid-area: nav;
+    display: flex;
+    justify-content: center;
+    background-color: #b8b8ff; } }
+.home {
+  border-style: solid;
+  color: white;
+  background: linear-gradient(red, blue, red);
+  max-width: 50%;
+  justify-content: center;
+  text-align: center;
+  margin-left: 25%; }
+
+.responsive {
+  width: 100%;
+  height: auto; }
