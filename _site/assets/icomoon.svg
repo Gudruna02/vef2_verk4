@@ -1,0 +1,16 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+
+  <ellipse ry="100" rx="114" id="svg_1" cy="303.333333" cx="300" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <ellipse stroke="#000000" transform="rotate(38.72269821166992 201.5,224.8333282470703) " ry="47.999998" rx="35.363961" id="svg_4" cy="224.833336" cx="201.5" stroke-width="5" fill="#000000"/>
+  <ellipse stroke="#000000" transform="rotate(-32.00538635253906 399.72473144531256,225.69288635253903) " ry="45.048987" rx="33.599977" id="svg_7" cy="225.69288" cx="399.724723" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+  <ellipse stroke="#000000" ry="30.999999" rx="12.499999" id="svg_8" cy="287.333332" cx="325.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+  <ellipse stroke="#000000" ry="31" rx="12.5" id="svg_9" cy="288.083328" cx="273.500001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+  <line id="svg_10" y2="321.333333" x2="413" y1="321.333333" x1="189" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <path stroke="#000000" transform="rotate(89.64756774902344 299.3044738769532,362.7884216308594) " id="svg_11" d="m259.298544,283.243282l40.005921,0l0,0c22.094664,0 40.005921,35.613572 40.005921,79.545142c0,43.931576 -17.911258,79.545142 -40.005921,79.545142l-40.005921,0l0,-159.090284z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ff0000"/>
+  <ellipse stroke="#000000" ry="10.546876" rx="5.90625" id="svg_12" cy="279.281217" cx="320.140656" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+  <ellipse stroke="#000000" ry="10.546875" rx="5.859375" id="svg_13" cy="278.109342" cx="278.37503" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+ </g>
+</svg>

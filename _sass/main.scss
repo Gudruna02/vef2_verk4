@@ -13,6 +13,7 @@ body{
 nav{
   grid-area:nav;
   display: flex;
+
   justify-content: center;
   background-color: rgb(129, 10, 10);
 }
@@ -49,4 +50,50 @@ margin-left:25%;
 .responsive{
   width:100%;
   height:auto;
+  margin-right: auto; 
+  margin-left: auto;
+}
+
+.icomoon{
+  display: block;
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+  background: url(/assets/twitter.svg);
+  background-size: 32px 23px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icomoon2{
+  display: block;
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+  background: url(/assets/reddit.svg);
+  background-size: 32px 23px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icomoon3{
+  display: block;
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+  background: url(/assets/tux.svg);
+  background-size: 32px 23px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icomoon4{
+  display: block;
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+  background: url(/assets/android.svg);
+  background-size: 32px 23px;
+  margin-left: auto;
+  margin-right: auto;
 }
